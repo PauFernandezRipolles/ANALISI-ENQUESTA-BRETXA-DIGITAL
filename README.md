@@ -2,9 +2,9 @@
 
 ## INTRODUCCIÓ
 El conjunt de dades que he triat es el de l’enquesta sobre la bretxa digital a Barcelona. Es un dataset força extens i he descartat les variables que m’han semblat menys interessants per l’anàlisi sobre la bretxa digital. De 135 columnes m’he quedat amb 88 i n’he creat una de nova amb una mena de Scoring puntuant les diferents preguntes sobre l’ús de les TIC i agrupant-les en una sola variable numèrica.
-### DEPURACIÓ DE DADES
+#### DEPURACIÓ DE DADES
 Després de descartar registres erronis, duplicats comprovo els valors nuls i veig que n’hi ha bastants.
-### VALORS NULS
+#### VALORS NULS
 Comprovo doncs la coherència dels valors nuls. A la enquesta hi ha opcions de no sap i no contesta que no son valors nuls, els nuls, doncs, provenen de preguntes condicionades a altres anteriors i que no es poden respondre si s’ha contestat que no a la anterior.
 * Els nuls de P1A,Q1A son els que no tenen connexió a casa, si els sumem als que sí en tenen P1B donen el total de la mostra.
 * Els 75 de Longitud i Latitud son els que no indiquen on viuen. En cas de voler utilitzar aquestes variables per a algun model o regressió lineal s'haurien d'eliminar.
