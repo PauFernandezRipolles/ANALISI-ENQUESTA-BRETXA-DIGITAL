@@ -52,6 +52,7 @@ Em sembla rellevant poder crear una nova variable que faci de puntuació del niv
 * Les altres P5_ seran puntuades amb 1 punt per l'1 i 0 pel 2.
 
 
+
 ## RESULTATS: ANÀLISI EXPLORATÒRI DE DADES (EDA)
 
 ### EDAT
@@ -70,7 +71,8 @@ S'aprecia força simetria amb una mica més de concentració cap a les edats mes
 Els bigotis van des dels 16 anys fins als 96. No hi ha punts fora dels bigotis, com era de preveure no hi ha valors extrems o outliers.
 
 #### CONCLUSIÓ:
-Tenim una mostra d'edat molt equilibrada i variada i , per tant, força representativa de la societat.
+##### Tenim una mostra d'edat molt equilibrada i variada i , per tant, força representativa de la societat.
+
 
 ### SCORING D'ÚS DE LES TIC
 Visualitzant la distribució d'Scoring podrem veure, de manera general, quina distribució hi ha de l'ús de les tecnologies de la informació i la comunicació a la mostra.
@@ -82,7 +84,7 @@ No obstant s'observa un pic important a les puntuacions mes baixes de 0 a 5. Es 
 Es força simètrica amb una lleugera asimetria cap a les puntuacions mes baixes.
 
 #### CONCLUSIÓ:
-La asimetria cap a les puntuacions baixes i sobretot el pic en les puntuacions mínimes posen de manifest que sí que hi ha una bretxa digital, es a dir una diferència pronunciada entre l'ús dels usuaris intensius de les TIC i els que gairebé no les utilitzen.
+##### La asimetria cap a les puntuacions baixes i sobretot el pic en les puntuacions mínimes posen de manifest que sí que hi ha una bretxa digital, es a dir una diferència pronunciada entre l'ús dels usuaris intensius de les TIC i els que gairebé no les utilitzen.
 
 ![image](https://github.com/user-attachments/assets/1b53aae2-2d84-4947-88de-3b1b9ac055bb)
 
@@ -90,7 +92,8 @@ Observem que el rang entre Q2 i Q3 es força estret, la majoria de distribució 
 Pel que fa a la simetria la mediana esta lleugerament a la dreta de la caixa entre Q2 i Q3, per tant hi ha una major concentració de dades a l'esquerra amb una menor puntucaió.
 
 #### CONCLUSIÓ:
-Podem veure com hi ha molts valors per fora els bigotis, concretament abans del Q1. Tants que, mes que considerarlos com a outliers i descartar-los, hem de pensar que això posa de manifest la existencia de la Bretxa digital.
+##### Podem veure com hi ha molts valors per fora els bigotis, concretament abans del Q1. Tants que, mes que considerarlos com a outliers i descartar-los, hem de pensar que això posa de manifest la existencia de la Bretxa digital.
+
 
 ### SCORING Vs EDAT
 Comparant aquestes dues variables, podrem veure si hi ha una relació entre edat i nivell d'ús de les TIC. 
@@ -104,8 +107,9 @@ Això indica que podria ser interessant aplicar algun altre model mes complex pe
 També veiem un sector molt menys densament poblat entre les puntuacions menors de 50 punts i les properes a 0 que tornen a ser mes abundants. Això també ens dona una visualització de l'existència de la bretxa digital.
 
 #### CONCLUSIÓ:
-La relació quadràtica inversa existent entre Scoring i Edat, ens indica que l'edat es un factor decisiu en el nivell d'ús de les TIC dels enquestats.
+##### La relació quadràtica inversa existent entre Scoring i Edat, ens indica que l'edat es un factor decisiu en el nivell d'ús de les TIC dels enquestats.
 El vuit existent entre les puntuacions mes baixes i les properes a 0 suggereixen l'existència real d'una bretxa digital.
+
 
 
 ## CONCLUSIONS
