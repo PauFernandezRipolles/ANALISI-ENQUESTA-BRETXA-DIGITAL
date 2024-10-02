@@ -50,7 +50,8 @@ Em sembla rellevant poder crear una nova variable que faci de puntuació del niv
 * La P4 la valora segons la freqüència d'us de manera inversa al valor contestat.
 * De les P5_ trio les que seran puntuades per freqüència de manera inversa.
 * Les altres P5_ seran puntuades amb 1 punt per l'1 i 0 pel 2.
-  
+
+
 ## RESULTATS: ANÀLISI EXPLORATÒRI DE DADES (EDA)
 
 ### EDAT
@@ -105,6 +106,7 @@ També veiem un sector molt menys densament poblat entre les puntuacions menors 
 #### CONCLUSIÓ:
 La relació quadràtica inversa existent entre Scoring i Edat, ens indica que l'edat es un factor decisiu en el nivell d'ús de les TIC dels enquestats.
 El vuit existent entre les puntuacions mes baixes i les properes a 0 suggereixen l'existència real d'una bretxa digital.
+
 
 ## CONCLUSIONS
 ### Hem pogut demostrar la relació entre edat i l’ús de les TIC i visualitzar la bretxa digital de manera clara, constatant que es una realitat.
