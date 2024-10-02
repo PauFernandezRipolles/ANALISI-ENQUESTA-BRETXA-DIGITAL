@@ -58,5 +58,15 @@ Faig un histograma i un boxplot per veure la distribució de la variable numèri
 
 ![image](https://github.com/user-attachments/assets/26294517-4bff-4c70-9d6c-2d3aec7805de)
 
+S'aprecia una distribució relativament normal, amb la salvetat que l'edat inicial de la mostra son 16 anys.
+Destaquen un pic dels 32 als 35, tot i que, el màxim de la corba de distribució se situa entre els 40 i els 45.
+
 ![image](https://github.com/user-attachments/assets/f8d0e1e7-1971-4132-81a4-d909f3d6febd)
+
+S'aprecia una distribució d'edats força simètrica. La mediana se situa als 50 anys, molt propera la mitjana de 50,5.
+L'espai entre el Q1 i el Q3 es força ampli, per tant dins les edats centrals hi ha bastanta variabilitat. L'IQR se situa entre els 40 i el 60.
+S'aprecia força simetria amb una mica més de concentració cap a les edats mes joves.
+Els bigotis van des dels 16 anys fins als 96. No hi ha punts fora dels bigotis, com era de preveure no hi ha valors extrems o outliers.
+##### CONCLUSIÓ
+Tenim una mostra d'edat molt equilibrada i variada i , per tant, força representativa de la societat.
 
