@@ -58,10 +58,12 @@ Em sembla rellevant poder crear una nova variable que faci de puntuació del niv
 ### EDAT
 Faig un histograma i un boxplot per veure la distribució de la variable numèrica d'edat (Q2) i detectar posibles outliers.
 
+
 ![image](https://github.com/user-attachments/assets/26294517-4bff-4c70-9d6c-2d3aec7805de)
 
 S'aprecia una distribució relativament normal, amb la salvetat que l'edat inicial de la mostra son 16 anys.
 Destaquen un pic dels 32 als 35, tot i que, el màxim de la corba de distribució se situa entre els 40 i els 45.
+
 
 ![image](https://github.com/user-attachments/assets/f8d0e1e7-1971-4132-81a4-d909f3d6febd)
 
@@ -77,6 +79,7 @@ Els bigotis van des dels 16 anys fins als 96. No hi ha punts fora dels bigotis, 
 ### SCORING D'ÚS DE LES TIC
 Visualitzant la distribució d'Scoring podrem veure, de manera general, quina distribució hi ha de l'ús de les tecnologies de la informació i la comunicació a la mostra.
 
+
 ![image](https://github.com/user-attachments/assets/ee7be847-0e19-4649-88da-91fba9c08242)
 
 Es mostra una distribució amb forma de campana de gauss, es a dir normal, amb bastanta concentració a les puntuacions entre 100 i 125, on se situa el màxim de la corba.
@@ -85,6 +88,7 @@ Es força simètrica amb una lleugera asimetria cap a les puntuacions mes baixes
 
 #### CONCLUSIÓ:
 #### La asimetria cap a les puntuacions baixes i sobretot el pic en les puntuacions mínimes posen de manifest que sí que hi ha una bretxa digital, es a dir una diferència pronunciada entre l'ús dels usuaris intensius de les TIC i els que gairebé no les utilitzen.
+
 
 ![image](https://github.com/user-attachments/assets/1b53aae2-2d84-4947-88de-3b1b9ac055bb)
 
@@ -99,6 +103,7 @@ Pel que fa a la simetria la mediana esta lleugerament a la dreta de la caixa ent
 Comparant aquestes dues variables, podrem veure si hi ha una relació entre edat i nivell d'ús de les TIC. 
 Faig un Scatterplot amb línia de regressió lineal.
 
+
 ![image](https://github.com/user-attachments/assets/3b371024-0ee0-4042-8b6f-c3485f991834)
 
 Veiem que hi ha una clara relació entre les dues variables: a mes edat, menys puntuació.
@@ -108,7 +113,7 @@ També veiem un sector molt menys densament poblat entre les puntuacions menors 
 
 #### CONCLUSIÓ:
 #### La relació quadràtica inversa existent entre Scoring i Edat, ens indica que l'edat es un factor decisiu en el nivell d'ús de les TIC dels enquestats.
-El vuit existent entre les puntuacions mes baixes i les properes a 0 suggereixen l'existència real d'una bretxa digital.
+#### El vuit existent entre les puntuacions mes baixes i les properes a 0 suggereixen l'existència real d'una bretxa digital.
 
 
 
