@@ -1,4 +1,4 @@
-# PROVA DATA SCIENCE HACKATÓ SALÓ DE LA OCUPACIÓ
+# PROVA DATA SCIENCE HACKATÓ SALÓ DE LA OCUPACIÓ #
 
 # INTRODUCCIÓ
 El conjunt de dades que he triat es el de l’enquesta sobre la bretxa digital a Barcelona. Es un dataset força extens i he descartat les variables que m’han semblat menys interessants per l’anàlisi sobre la bretxa digital. De 135 columnes m’he quedat amb 88 i n’he creat una de nova amb una mena de Scoring puntuant les diferents preguntes sobre l’ús de les TIC i agrupant-les en una sola variable numèrica.
